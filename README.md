@@ -1,7 +1,7 @@
 # MeuAppNavegacao
 
 Bem-vindo a um aplicativo de navegaço, desenvolvido com
-fins didáticos de aprendizadode navegação em react native.
+fins didáticos de aprendizado de navegação em react native.
 
 ## Funcionalidades
 
